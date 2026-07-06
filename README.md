@@ -133,9 +133,9 @@ O projeto utiliza quatro tabelas:
 
 sql-business-analysis
 
-1. README.md
-2. database.sql
-3. queries.sql
+1. [README.md](https://github.com/ribruno98/SQL-Business-Analysis/blob/main/README.md)
+2. [database.sql](https://github.com/ribruno98/SQL-Business-Analysis/blob/main/database.sql)
+3. [queries.sql](https://github.com/ribruno98/SQL-Business-Analysis/blob/main/queries.sql)
 
 ---
 
